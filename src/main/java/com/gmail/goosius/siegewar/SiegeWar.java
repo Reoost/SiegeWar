@@ -131,7 +131,7 @@ public class SiegeWar extends JavaPlugin {
 		System.out.println(" | |    | '__| | | / __|/ _` |/ _` |/ _ \\ \\/  \\/ / _` | '__| ");
 		System.out.println(" | |____| |  | |_| \\__ \\ (_| | (_| |  __/\\  /\\  / (_| | |    ");
 		System.out.println("  \\_____|_|   \\__,_|___/\\__,_|\\__,_|\\___| \\/  \\/ \\__,_|_|   ");
-		System.out.println("          By Goosius & LlmDl & reoost         ");
+		System.out.println("           By Goosius & LlmDl & reoost         ");
 		System.out.println("                                      ");
 	}
 
